@@ -5,9 +5,10 @@
 To develop a Spring Boot application to store and retrieve data from a Movies database using Object Relational Mapping (ORM) with Hibernate and expose it via REST APIs.
 
 ---
-***Name:** Bakkiyalakshmi E
+**Name:** Bakkiyalakshmi E
 
 **Reg no:** 212223220012
+
 ---
 
 ## ALGORITHM:
